@@ -22,5 +22,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
+    // Auto-focus the first input field on page load
     inputs[0].focus();
 });
